@@ -16,7 +16,7 @@ require (
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/klauspost/compress v1.13.5
 	github.com/lib/pq v1.10.3
-	github.com/rollbar/rollbar-go v1.4.1
+	github.com/rollbar/rollbar-go v1.4.4
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
 	gotest.tools/v3 v3.0.3
 )
